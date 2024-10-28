@@ -1,0 +1,14 @@
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\ExerciciosPropostos_Parte1_EstruturaSequencial\Ex04\bin\Debug\net8.0\Ex04.exe
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\ExerciciosPropostos_Parte1_EstruturaSequencial\Ex04\bin\Debug\net8.0\Ex04.deps.json
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\ExerciciosPropostos_Parte1_EstruturaSequencial\Ex04\bin\Debug\net8.0\Ex04.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\ExerciciosPropostos_Parte1_EstruturaSequencial\Ex04\bin\Debug\net8.0\Ex04.dll
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\ExerciciosPropostos_Parte1_EstruturaSequencial\Ex04\bin\Debug\net8.0\Ex04.pdb
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\ExerciciosPropostos_Parte1_EstruturaSequencial\Ex04\obj\Debug\net8.0\Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\ExerciciosPropostos_Parte1_EstruturaSequencial\Ex04\obj\Debug\net8.0\Ex04.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\ExerciciosPropostos_Parte1_EstruturaSequencial\Ex04\obj\Debug\net8.0\Ex04.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\ExerciciosPropostos_Parte1_EstruturaSequencial\Ex04\obj\Debug\net8.0\Ex04.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\ExerciciosPropostos_Parte1_EstruturaSequencial\Ex04\obj\Debug\net8.0\Ex04.dll
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\ExerciciosPropostos_Parte1_EstruturaSequencial\Ex04\obj\Debug\net8.0\refint\Ex04.dll
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\ExerciciosPropostos_Parte1_EstruturaSequencial\Ex04\obj\Debug\net8.0\Ex04.pdb
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\ExerciciosPropostos_Parte1_EstruturaSequencial\Ex04\obj\Debug\net8.0\Ex04.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\ExerciciosPropostos_Parte1_EstruturaSequencial\Ex04\obj\Debug\net8.0\ref\Ex04.dll

@@ -16,4 +16,4 @@ fB.nome = Console.ReadLine();
 Console.Write("Salário: ");
 fB.salario = double.Parse(Console.ReadLine());
 
-Console.Write("Salário médico = R$" + Funcionario.mediaSalario(fA.salario, fB.salario));
+Console.Write("Salário médio = R$" + Funcionario.mediaSalario(fA.salario, fB.salario));

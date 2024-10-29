@@ -12,3 +12,4 @@ C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Progr
 C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\ExerciciosPropostos_Parte1_Classes-Objetos-Atributos\Ex02\obj\Debug\net8.0\Ex02.pdb
 C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\ExerciciosPropostos_Parte1_Classes-Objetos-Atributos\Ex02\obj\Debug\net8.0\Ex02.genruntimeconfig.cache
 C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\ExerciciosPropostos_Parte1_Classes-Objetos-Atributos\Ex02\obj\Debug\net8.0\ref\Ex02.dll
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\ExerciciosPropostos_Parte1_Classes-Objetos-Atributos\Ex02\obj\Debug\net8.0\Ex02.sourcelink.json

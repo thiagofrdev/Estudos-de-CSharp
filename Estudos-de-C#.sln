@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "praticando", "praticando", "{722B8948-7315-49F3-B8C7-644BE189FC8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "estruturas_condicionais", "praticando\estruturas_condicionais\estruturas_condicionais.csproj", "{BA91482D-0596-4C8A-A812-99A25B33F984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA91482D-0596-4C8A-A812-99A25B33F984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA91482D-0596-4C8A-A812-99A25B33F984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA91482D-0596-4C8A-A812-99A25B33F984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA91482D-0596-4C8A-A812-99A25B33F984}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BA91482D-0596-4C8A-A812-99A25B33F984} = {722B8948-7315-49F3-B8C7-644BE189FC8D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2983774-B81A-4CF2-B5F5-DAF9741E6B88}
+	EndGlobalSection
+EndGlobal

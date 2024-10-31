@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "praticando", "praticando", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "estruturas_condicionais", "praticando\estruturas_condicionais\estruturas_condicionais.csproj", "{BA91482D-0596-4C8A-A812-99A25B33F984}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{2B6116D4-A52E-4507-957C-AEF7D25750AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{BA91482D-0596-4C8A-A812-99A25B33F984}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA91482D-0596-4C8A-A812-99A25B33F984}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA91482D-0596-4C8A-A812-99A25B33F984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B6116D4-A52E-4507-957C-AEF7D25750AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6116D4-A52E-4507-957C-AEF7D25750AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6116D4-A52E-4507-957C-AEF7D25750AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6116D4-A52E-4507-957C-AEF7D25750AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

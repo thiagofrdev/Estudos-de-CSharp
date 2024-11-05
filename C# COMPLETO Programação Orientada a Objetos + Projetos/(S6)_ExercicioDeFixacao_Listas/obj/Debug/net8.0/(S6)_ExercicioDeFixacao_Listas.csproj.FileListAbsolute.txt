@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\(S6)_ExercicioDeFixacao_Listas\bin\Debug\net8.0\(S6)_ExercicioDeFixacao_Listas.exe
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\(S6)_ExercicioDeFixacao_Listas\bin\Debug\net8.0\(S6)_ExercicioDeFixacao_Listas.deps.json
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\(S6)_ExercicioDeFixacao_Listas\bin\Debug\net8.0\(S6)_ExercicioDeFixacao_Listas.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\(S6)_ExercicioDeFixacao_Listas\bin\Debug\net8.0\(S6)_ExercicioDeFixacao_Listas.dll
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\(S6)_ExercicioDeFixacao_Listas\bin\Debug\net8.0\(S6)_ExercicioDeFixacao_Listas.pdb
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\(S6)_ExercicioDeFixacao_Listas\obj\Debug\net8.0\(S6)_ExercicioDeFixacao_Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\(S6)_ExercicioDeFixacao_Listas\obj\Debug\net8.0\(S6)_ExercicioDeFixacao_Listas.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\(S6)_ExercicioDeFixacao_Listas\obj\Debug\net8.0\(S6)_ExercicioDeFixacao_Listas.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\(S6)_ExercicioDeFixacao_Listas\obj\Debug\net8.0\(S6)_ExercicioDeFixacao_Listas.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\(S6)_ExercicioDeFixacao_Listas\obj\Debug\net8.0\(S6)_ExercicioDeFixacao_Listas.sourcelink.json
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\(S6)_ExercicioDeFixacao_Listas\obj\Debug\net8.0\(S6)_ExercicioDeFixacao_Listas.dll
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\(S6)_ExercicioDeFixacao_Listas\obj\Debug\net8.0\refint\(S6)_ExercicioDeFixacao_Listas.dll
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\(S6)_ExercicioDeFixacao_Listas\obj\Debug\net8.0\(S6)_ExercicioDeFixacao_Listas.pdb
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\(S6)_ExercicioDeFixacao_Listas\obj\Debug\net8.0\(S6)_ExercicioDeFixacao_Listas.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\PROGRAMAÇÃO\Estudos-de-C#\C# COMPLETO Programação Orientada a Objetos + Projetos\(S6)_ExercicioDeFixacao_Listas\obj\Debug\net8.0\ref\(S6)_ExercicioDeFixacao_Listas.dll

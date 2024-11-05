@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "(S6)_ExercicioDeFixacao_Listas/1.0.0": {
+        "runtime": {
+          "(S6)_ExercicioDeFixacao_Listas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "(S6)_ExercicioDeFixacao_Listas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

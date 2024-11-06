@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebAppli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinhaWebApi", "MinhaWebApi\MinhaWebApi.csproj", "{423586EA-8D77-45DF-8B50-342C68AE1E10}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SiteSimplesApi", "SiteSimplesApi", "{D9EA9ABB-D690-4B45-97C5-22223B330E77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDAPI", "SiteSimplesApi\CRUDAPI\CRUDAPI.csproj", "{0A76DBBC-E8E6-4637-9B5F-9F40A256AF2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,12 +33,17 @@ Global
 		{423586EA-8D77-45DF-8B50-342C68AE1E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{423586EA-8D77-45DF-8B50-342C68AE1E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{423586EA-8D77-45DF-8B50-342C68AE1E10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A76DBBC-E8E6-4637-9B5F-9F40A256AF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A76DBBC-E8E6-4637-9B5F-9F40A256AF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A76DBBC-E8E6-4637-9B5F-9F40A256AF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A76DBBC-E8E6-4637-9B5F-9F40A256AF2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BA91482D-0596-4C8A-A812-99A25B33F984} = {722B8948-7315-49F3-B8C7-644BE189FC8D}
+		{0A76DBBC-E8E6-4637-9B5F-9F40A256AF2A} = {D9EA9ABB-D690-4B45-97C5-22223B330E77}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D2983774-B81A-4CF2-B5F5-DAF9741E6B88}
